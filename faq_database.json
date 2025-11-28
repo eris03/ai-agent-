@@ -1,0 +1,39 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "title": "How do I reset my password?",
+      "content": "To reset your password:\n1. Go to the login page\n2. Click 'Forgot Password'\n3. Enter your email\n4. Click the reset link in your email\n5. Create a new password",
+      "category": "Account",
+      "tags": ["password", "reset", "login", "account"]
+    },
+    {
+      "id": 2,
+      "title": "What is your return policy?",
+      "content": "We offer 30-day returns on all items. Items must be in original condition. Contact us at support@company.com for return authorization.",
+      "category": "Returns",
+      "tags": ["return", "refund", "policy", "money back"]
+    },
+    {
+      "id": 3,
+      "title": "How long does shipping take?",
+      "content": "Standard shipping: 5-7 business days. Express: 2-3 days. International: 10-15 days. Tracking included.",
+      "category": "Shipping",
+      "tags": ["shipping", "delivery", "time", "tracking"]
+    },
+    {
+      "id": 4,
+      "title": "How do I update my payment method?",
+      "content": "Go to Account > Payment Methods > Add New. Enter your card details. Mark as default if needed.",
+      "category": "Billing",
+      "tags": ["payment", "card", "billing", "update"]
+    },
+    {
+      "id": 5,
+      "title": "What payment methods do you accept?",
+      "content": "We accept: Credit cards (Visa, MC, Amex), PayPal, Apple Pay, Google Pay, Bank transfer.",
+      "category": "Billing",
+      "tags": ["payment", "methods", "credit card", "paypal"]
+    }
+  ]
+}
